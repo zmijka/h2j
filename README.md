@@ -9,5 +9,5 @@ Wand, PySide2
 [imagemagick](https://imagemagick.org/script/download.php)
 
 
-![alt text](screen.png)
+![alt text](Screen.png)
 
