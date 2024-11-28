@@ -3,7 +3,7 @@
 Prosty program do konmwersji plików graficznych HEIC do jpeg
 
 
-# wymagania:
+wymagania:
 Wand, PySide2
 
 [imagemagick](https://imagemagick.org/script/download.php)
